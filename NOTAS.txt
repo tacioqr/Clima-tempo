@@ -1,0 +1,18 @@
+Login: admin
+Senha: admin
+
+Alterar a chave da api em src/services/WeatherService.js 
+onde tem const = KEY_API
+
+Obs.: Muitas requições pra API ela bloqueia.
+
+
+Passos para rodar o projeto:
+
+- Instalar o node.js
+- Acessar o diretório do projeto
+- Executar no terminal
+	npm i, para instalar as dependências
+- Executar no terminal
+	npm start, para rodar o projeto
+
